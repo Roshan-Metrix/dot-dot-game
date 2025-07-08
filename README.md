@@ -1,4 +1,4 @@
-# dot-dot-game
+# Dot-Dot-Game
 
 A simple space-themed dot game built with HTML, CSS, and JavaScript.
 
